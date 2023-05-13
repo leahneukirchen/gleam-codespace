@@ -10,3 +10,5 @@ rm var/cache/xbps/*
 EOF
 
 ENV HOME=/root
+
+CMD [ "sleep", "infinity" ]
