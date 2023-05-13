@@ -8,3 +8,5 @@ xbps-install -Syu bash less ncurses-base shadow  gleam erlang nodejs
 chsh -s /bin/bash root
 rm var/cache/xbps/*
 EOF
+
+ENV HOME=/root

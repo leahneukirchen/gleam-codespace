@@ -1,4 +1,5 @@
 {
   "name": "Gleam",
-  "build": {"dockerfile": "Dockerfile"}
+  "build": {"dockerfile": "Dockerfile"},
+  "remoteUser": "root"
 }
