@@ -1,4 +1,4 @@
 {
   "name": "Gleam",
-  "image": "Dockerfile"
+  "build": {"dockerfile": "Dockerfile"}
 }
