@@ -17,3 +17,5 @@
    Then select your new directory.
 
 5. Run the tests with **F1**, **Tasks: Run Test Task**
+
+6. Finally, don't forget to delete the code space when you don't need it anymore.
